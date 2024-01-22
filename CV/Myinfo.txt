@@ -2,5 +2,6 @@ Nom : Table
 Prénom : Chaise
 Date de naissance : hier
 adresse mail : c'est la mienne
-adresse 
+adresse :
 numéro de telephone : 
+hobbies :
